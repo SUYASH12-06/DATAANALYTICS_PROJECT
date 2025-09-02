@@ -1,4 +1,17 @@
-Movie Dataset Analysis & Visualization:
-Performed exploratory data analysis and visualization on a movie dataset to extract actionable insights on ratings, revenue, and genre trends.
-Tools & Technologies: Python, Pandas, Matplotlib, Seaborn
-Created interactive visualizations to showcase top-rated movies, highest-grossing films, longest runtimes, and yearly trends. Implemented rating categorization and a genre-counting system to determine the number of movies in any specified genre (e.g., 87 Horror movies), providing deeper understanding of genre popularity.
+Movie Dataset Analysis & Visualization
+Description
+
+Performed data analysis and visualizations on a movie dataset to explore ratings, revenue, and genre trends.
+Created visualizations to highlight top-rated movies, highest-grossing films, longest runtimes, and yearly trends. Implemented rating categories and a genre-counting system to identify the number of movies in specific genres (for example, 87 Horror movies), helping to understand genre popularity.
+
+Technologies Used
+
+- Python
+
+- Pandas
+
+- NumPy
+
+- Matplotlib
+
+- Seaborn
